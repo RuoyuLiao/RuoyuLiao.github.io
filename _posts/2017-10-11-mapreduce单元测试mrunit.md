@@ -22,7 +22,7 @@ For more information, please explore the Attic.”, 不过，目前仍然可以�
 	</dependency>
 
 需要用到其中的三种driver，MapDriver，ReduceDriver，MapReduceDriver，其实第三种不太好用
-`
+```java
     private MapDriver<LongWritable, Text, Text, Text> mapDriver;
     private ReduceDriver<Text, Text, NullWritable, Text> reduceDriver;
     private MultipleInputsMapReduceDriver<LongWritable, Text, NullWritable, Text> mapReduceDriver;
@@ -69,7 +69,7 @@ For more information, please explore the Attic.”, 不过，目前仍然可以�
         reduceDriver.withAllOutput(outputRecords);
         reduceDriver.runTest();
     }
-`
+```
 
 上面的代码，基本上可以测试一个简单的mapreduce程序了
 

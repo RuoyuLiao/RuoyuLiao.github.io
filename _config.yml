@@ -1,17 +1,17 @@
 # Site settings
-title: Felix's Blog
+title: Felix
 SEOTitle: Felix的博客 | longwind09 Blog
 header-img: img/post-bg-desk.jpg
 email: longwind09@gmail.com
 description: "."
-keyword: "Felix, Felix Blog, 长风的博客, changfeng, 向长风, 程序员"
+keyword: "Felix, Felix Blog, 长风的博客,longwind09, changfeng, 向长风, 程序员"
 url: "https://longwind09.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/longwind09/longwind09.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: 	"<center>Willing Heart!</center>"
+sidebar-about-description: 	"<center>Another Willing Heart!</center>"
 sidebar-avatar: /img/about-avatar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
