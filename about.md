@@ -15,11 +15,10 @@ header-img: "img/post-bg-rwd.jpg"
 <div class="zh post-container">
     <blockquote><p>多容寡欲，<br> 千里江河</p></blockquote>
 
-    <p>Hi，我是<strong>longwind09</strong>，程序猿，在北京。</p>
+    <p>程序猿，在北京。</p>
 
     <p>这是利用 <a href="https://pages.github.com/">GitHub Pages</a> 与 <a href="http://jekyll.com.cn/">Jekyll</a> 搭建的 个人博客。我在GitHub主页<a href="https://github.com/longwind09">👉GitHub·longwind09</a> 与 简书主页<a href="https://http://www.jianshu.com/u/ec260083e70e">👉longwind09</a>。</p>
 
-    <p>工作、学习之余，我喜欢旅游。</p>
     <h5>经历</h5>
 
     <ul>
@@ -37,12 +36,12 @@ header-img: "img/post-bg-rwd.jpg"
     <blockquote><p>Yet another Programmer. <br>
     Yet another Life-long Student.</p></blockquote>
 
-    <p>Hi, I am <strong>Xiang Changfeng</strong>，you can call me <strong>Felix</strong>. I am an algorithm/software engineer and currently working in Beijing</p>
+    <p><strong>Felix</strong>. major in data science and software</p>
 
-    <p>This is my personal blog, made with Github Pages and Jekyll. My GitHub  👉 <a href="http://github.com/longwind09">Github·longwind09</a>.</p>
+    <p>This blog is  made with Github Pages and Jekyll. My GitHub  👉 <a href="http://github.com/longwind09">Github·longwind09</a>.</p>
     
     <p>I like travelling all around the world.</p>
-    <h5>经历</h5>
+    <h5>Experi</h5>
 
     <ul>
     <li>2016.7-今，58赶集算法工程师</li>
