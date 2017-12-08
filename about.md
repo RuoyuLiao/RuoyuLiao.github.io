@@ -13,7 +13,7 @@ header-img: "img/post-bg-rwd.jpg"
 
 <!-- Chinese Version -->
 <div class="zh post-container">
-    <blockquote><p>多容寡欲，<br> 千里江河</p></blockquote>
+    <blockquote><p>多容寡欲，千里江河</p></blockquote>
 
     <p>程序猿，在北京。</p>
 
@@ -33,15 +33,13 @@ header-img: "img/post-bg-rwd.jpg"
 
 <!-- English Version -->
 <div class="en post-container">
-    <blockquote><p>Yet another Programmer. <br>
-    Yet another Life-long Student.</p></blockquote>
+    <blockquote><p>Yet another Programmer. <br> </p></blockquote>
 
-    <p><strong>Felix</strong>. major in data science and software</p>
+    <strong>Felix</strong>. major in data science and software
 
-    <p>This blog is  made with Github Pages and Jekyll. My GitHub  👉 <a href="http://github.com/longwind09">Github·longwind09</a>.</p>
+    This blog is made with Github Pages and Jekyll. My GitHubGithub·[longwind09](http://github.com/longwind09)
     
-    <p>I like travelling all around the world.</p>
-    <h5>Experi</h5>
+    <h5>Resume</h5>
 
     <ul>
     <li>2016.7-今，58赶集算法工程师</li>

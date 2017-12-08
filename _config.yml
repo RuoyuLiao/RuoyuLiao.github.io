@@ -53,6 +53,8 @@ kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
 
+mermaid:
+    src: 'js/mermaid.js'
 
 # 评论系统
 # Disqus settings（https://disqus.com/）
