@@ -3,13 +3,13 @@ layout: post
 title: 2017-12-03-flowchart.js
 ---
 
-{% mermaid %}
+<div class="mermaid">
 graph TD;
     A-->B;
     A-->C;
     B-->D;
     C-->D;
-{% endmermaid %}
+</div>
 
 
 $$

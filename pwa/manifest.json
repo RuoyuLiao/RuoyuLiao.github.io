@@ -1,7 +1,7 @@
 {
   "name": "Felix",
   "short_name": "Felix",
-  "description": "About an engineer  who loves programs.",
+  "description": "About an engineer who loves programs.",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
