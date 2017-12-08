@@ -3,6 +3,7 @@ layout: post
 title: 2017-12-03-flowchart.js
 ---
 
+
 <div class="mermaid">
 graph TD;
     A-->B;
@@ -10,6 +11,29 @@ graph TD;
     B-->D;
     C-->D;
 </div>
+
+
+
+```mermaid
+graph TD
+A[Christmas] -->|Get money| B(Go shopping)
+B --> C{Let me think}
+C -->|One| D[Laptop]
+C -->|Two| E[iPhone]
+C -->|Three| F[Car]
+```
+
+```flow
+st=>start: Start
+op=>operation: Your Operation
+cond=>condition: Yes or No?
+e=>end
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
+
 
 
 $$
