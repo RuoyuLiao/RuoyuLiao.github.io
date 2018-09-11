@@ -1,31 +1,27 @@
 # Site settings
-title: Felix
-SEOTitle: Felix的博客 | longwind09 Blog
+title: 512k
+SEOTitle: Roy Blog
 header-img: img/post-bg-desk.jpg
-email: longwind09@gmail.com
+email: ruoyu.liao.90@gmail.com
 description: "."
-keyword: "Felix, Felix Blog, 长风的博客,longwind09, changfeng, 向长风, 程序员"
-url: "https://longwind09.github.io"          # your host, for absolute URL
+# keyword: "Felix, Felix Blog, 长风的博客,longwind09, changfeng, 向长风, 程序员"
+url: "https://ruoyuliao.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/longwind09/longwind09.github.io.git" # you code repository
+# github_repo: "https://github.com/longwind09/longwind09.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: false                           # whether or not using Sidebar.
 sidebar-about-description: 	"<center>Another Willing Heart!</center>"
 sidebar-avatar: /img/about-avatar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-
-
 # SNS settings
-RSS: false
-zhihu_username:     longwind09
-github_username:    longwind09
-jianshu_username:   ec260083e70e
+# RSS: false
+# zhihu_username:     longwind09
+# github_username:    longwind09
+# jianshu_username:   ec260083e70e
 #weibo_username:     longwind09
 #twitter_username:   longwind09
 #facebook_username:  longwind09
-
-
 
 
 # Build settings
@@ -34,8 +30,6 @@ permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
-
-
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
@@ -51,13 +45,12 @@ highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
-
 mermaid:
     src: /js/mermaid.js
 
 # 评论系统
 # Disqus settings（https://disqus.com/）
-disqus_username: longwind09
+# disqus_username: ruoyuliao
 
 
 # Analytics settings
@@ -81,12 +74,12 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "阮一峰",
-        href: "http://www.ruanyifeng.com/blog"
-    },
-    {
-        title: "简书·longwind09",
-        href: "http://www.jianshu.com/u/ec260083e70e"
-    }]
+# friends: [
+#     {
+#         title: "阮一峰",
+#         href: "http://www.ruanyifeng.com/blog"
+#     },
+#     {
+#         title: "简书·longwind09",
+#         href: "http://www.jianshu.com/u/ec260083e70e"
+#     }]
