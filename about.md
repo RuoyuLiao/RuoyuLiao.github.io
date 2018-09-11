@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "Hungry & Foolish."
+description: "live boldly, push yourself & never settle."
 header-img: "img/post-bg-rwd.jpg"
 ---
 
@@ -9,7 +9,7 @@ header-img: "img/post-bg-rwd.jpg"
 
 ## Resume
 
-> Proficient
+> Interests
 
 - Matlab
 - LaTeX
@@ -24,4 +24,19 @@ header-img: "img/post-bg-rwd.jpg"
 
 > Research
 
+- Stabilization of carrier envelope phase of ultrafast pulses
+- Dual-comb fiber Lasers and its application in dual-comb spectroscopy
+- Generation, amplification and nonlinear propagation of femtosecond pulses in thulium-doped fibers
+- Nonlinear coupling process in multi-core and multi-mode fiber
 
+> Publications
+
+- Dual-comb spectroscopy with a single free-running thulium-doped fiber laser, [DOI](https://doi.org/10.1364/OE.26.011046)
+- Dielectric-mirror-less femtosecond optical parametric oscillator with ultra-broadband tunability, [DOI](https://doi.org/10.1364/OL.43.002316)
+- Intensity noise suppression in mode-locked fiber lasers by double optical bandpass filtering, [DOI](https://doi.org/10.1364/OL.42.004095)
+- Ultra-flat supercontinuum generated from high-power, picosecond telecommunication fiber laser source, [DOI](https://doi.org/10.1364/AO.55.009384)
+
+> Conferences
+
+- Dual Repetition-Rate Femtosecond Pulses Directly from a Tm-doped Fiber Laser, in CLEO (OSA, Washington), [DOI](https://doi.org/10.1364/CLEO_SI.2017.SM4L.5)
+- Mode-locking Regime Switching by Wavelength Tuning in a Tm-fiber Laser, in CLEO (OSA, Washington, D.C), [DOI](https://doi.org/10.1364/CLEO_SI.2017.STu1K.6)
