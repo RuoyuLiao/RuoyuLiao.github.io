@@ -44,3 +44,4 @@ convert *.jpg ./new/*.png
 will convert all the `.jpg` files into `.png` and store into a new directory.
 
 
+The detailed usage can be found in [IM usage](https://imagemagick.org/Usage/). Literally, the manual stays at version 6, while the IM has been updated to v7. But it does not affect that much. However, if you're using IM under 6, the command syntax may be a little bit different. Be careful.
