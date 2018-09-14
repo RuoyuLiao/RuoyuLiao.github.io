@@ -2,10 +2,7 @@
 layout: post
 title: harmonics in radio frequency spectrum
 header-img: img/post-bg-rwd.jpg
-tags: 
-	- fft
-	- spectrum analyzer
-	- pulse train
+tags: "fft"
 ---
 
 Today, a problem arises for discussion in the office. For a set of pulse train, typically we think that the response on the spectrum analyzer reflects the repetition rate. As a result, the strongest signal locates around the fundamental repetition rate.
