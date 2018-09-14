@@ -1,7 +1,7 @@
 ---
 layout: post
 title: harmonics in radio frequency spectrum
-tags: 'spectrum analyzer' 'Fourier transform'
+<!-- tags: 'spectrum analyzer' 'Fourier transform' -->
 ---
 
 Today, a problem raises for discussion in the office. For a set of pulse train, typically we think that the response on the spectrum analyzer reflects the repetition rate. As a result, the strongest signal locates around the fundamental repetition rate.
