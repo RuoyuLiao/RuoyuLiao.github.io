@@ -1,10 +1,10 @@
 ---
 layout: post
 title: harmonics in radio frequency spectrum
-<!-- tags: 'spectrum analyzer' 'Fourier transform' -->
+tags: fft 
 ---
 
-Today, a problem raises for discussion in the office. For a set of pulse train, typically we think that the response on the spectrum analyzer reflects the repetition rate. As a result, the strongest signal locates around the fundamental repetition rate.
+Today, a problem arises for discussion in the office. For a set of pulse train, typically we think that the response on the spectrum analyzer reflects the repetition rate. As a result, the strongest signal locates around the fundamental repetition rate.
 
 Problem is, why there's so many higher order harmonics and what's the temporal characteristics corresponding to those high harmonics signal.
 
