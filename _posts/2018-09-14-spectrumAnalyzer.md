@@ -19,7 +19,7 @@ Or maybe, it can be understood from the perspective of mode-locking. Take the mi
 Pulse train and its signal after Fourier transform.
 ![image](/img/spectrumAnalyzer.jpg)
 
-As a result, we should never just consider the spectrum analyzer an instrument to detect the repetition rate. It also reveals some more intrinsic sights in the pulse train.
+As a result, we should never just regard the spectrum analyzer an instrument to detect the repetition rate. It also reveals some more intrinsic sights in the pulse train.
 
 Another question is, when dispersion of the medium is considered, carrier envelope offset (CEO) is introduced in the spectral domain. When the group velocity dispersion for different frequencies vary, why different frequencies are still seperated by a fix `f_rep`, instead of `f_rep(f)`, and why can we introduce a single CEO for the representation?
 
