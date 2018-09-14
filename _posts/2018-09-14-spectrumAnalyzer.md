@@ -1,6 +1,7 @@
 ---
 layout: post
 title: harmonics in radio frequency spectrum
+header-img: img/post-bg-rwd.jpg
 tags: fft 
 ---
 
