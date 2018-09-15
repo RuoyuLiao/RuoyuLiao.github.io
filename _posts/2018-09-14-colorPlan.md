@@ -4,7 +4,7 @@ title: color plan for scientific articles
 tags: "color-plan vector-graphics"
 ---
 
-In order to keep all the colors I used in different softwares in accordance, I introduced a color plan in `Matlab` and `LaTeX`. These two are nowadays the main and maybe only two methods for vector graphics generation.
+In order to keep all the colors I used in different softwares in accordance, I introduced a color plan in `Matlab` and `LaTeX`. These two are nowadays the main and maybe only two methods for vector graphics generation for me.
 
 After checking like tens of different color plans, I have fixed my choice following these rules:
 - the exact cataloger of the colors
